@@ -8,6 +8,9 @@
     },
     {
       "path": "./apps/cli"
+    },
+    {
+      "path": "./packages/orinion-way-ai-ugynok"
     }
   ]
 }
